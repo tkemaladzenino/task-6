@@ -1,6 +1,6 @@
 @font-face {
  font-family: FiraGO-Regular;
- src: url(../task-6/FiraGO-Regular.ttf)
+ src: url(./FiraGO-Regular.ttf)
 }
 
 
@@ -14,6 +14,7 @@ body {
 .card {
 
  width: 684px;
+
 
 
  background-color: #FFFFFF;
