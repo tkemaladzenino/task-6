@@ -127,3 +127,14 @@ textarea {
  height: 112px;
  width: 100%;
 }
+
+select {
+ height: 50px;
+ width: 100%;
+ box-sizing:
+  border-box;
+ border-radius: 10px;
+ border: 1px solid #E5E5E5;
+
+
+}
